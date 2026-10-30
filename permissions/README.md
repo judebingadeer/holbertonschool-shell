@@ -11,3 +11,5 @@
 3-new_owner: Changes the owner of hello to betty.
 
 4-empty: Creates an empty file named hello.
+
+5-execute: Adds execute permission to the owner of hello.
