@@ -25,3 +25,5 @@
 11-directories: Counts all directories and subdirectories, including hidden ones.
 
 12-newest_files: Displays the 10 newest files from newest to oldest.
+
+13-unique: Displays sorted words that appear exactly once.
