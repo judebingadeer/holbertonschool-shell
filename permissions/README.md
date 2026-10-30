@@ -35,3 +35,5 @@
 14-change_owner_and_group: Changes owner to vincent and group to staff.
 
 15-symbolic_link_permissions: Changes the symbolic link owner to vincent and group to staff.
+
+16-if_only: Changes owner from guillaume to vincent only if guillaume owns hello.
