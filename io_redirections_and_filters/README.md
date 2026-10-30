@@ -17,3 +17,5 @@
 7-file: Creates a specially named file containing Best School.
 
 8-cwd_state: Saves the output of ls -la to ls_cwd_content.
+
+9-duplicate_last_line: Duplicates the last line of iacta.
