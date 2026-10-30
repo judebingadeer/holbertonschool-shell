@@ -31,3 +31,5 @@
 14-findthatword: Displays lines containing root from /etc/passwd.
 
 15-countthatword: Counts lines containing bin in /etc/passwd.
+
+16-whatsnext: Displays lines containing root and the 3 lines after each match.
