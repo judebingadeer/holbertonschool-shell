@@ -33,3 +33,5 @@
 15-countthatword: Counts lines containing bin in /etc/passwd.
 
 16-whatsnext: Displays lines containing root and the 3 lines after each match.
+
+17-hidethisword: Displays lines that do not contain bin in /etc/passwd.
