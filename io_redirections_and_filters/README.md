@@ -43,3 +43,5 @@
 20-hiago: Removes all lowercase c and uppercase C letters from input.
 
 21-reverse: Reverses the characters in each input line.
+
+22-users_and_homes: Displays usernames and home directories sorted alphabetically.
