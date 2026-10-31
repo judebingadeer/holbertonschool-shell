@@ -27,3 +27,5 @@
 12-combinations: Prints all two-letter combinations except oo.
 
 13-print_float: Prints NUM with two decimal places.
+
+14-decimal_to_hexadecimal: Converts DECIMAL to lowercase hexadecimal.
