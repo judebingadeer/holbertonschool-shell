@@ -11,3 +11,5 @@
 4-global_variables: Displays all environment variables.
 
 5-local_variables: Displays all local variables, environment variables, and functions.
+
+6-create_local_variable: Creates a local variable BEST with the value School.
